@@ -1,0 +1,22 @@
+{
+  "name": "morden-css-natours",
+  "version": "1.0.0",
+  "description": "langding pages for natour",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Awu1227/morden-css-natours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Awu1227/morden-css-natours/issues"
+  },
+  "homepage": "https://github.com/Awu1227/morden-css-natours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
